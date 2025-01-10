@@ -38,8 +38,7 @@ The project includes a testbench (`MIPS_Datapath_tb`) that verifies the function
    ```bash
    gtkwave waveform.vcd
 
-##Conclusion
-
+## Conclusion
 This MIPS datapath project serves as a foundational implementation of a MIPS processor, demonstrating key concepts in digital design and computer architecture. It can be extended with additional features such as more complex instructions, pipelining, and hazard detection for further learning and experimentation.
    
    
